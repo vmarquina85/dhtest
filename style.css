@@ -410,3 +410,13 @@ text-transform: uppercase;
 {
   background-color:#e2bd15;
 }
+/* mobile */
+@media only screen and (max-width: 600px) {
+  .slogan {
+        font-size: 60px;
+      line-height: 55px;
+    }
+    .footerLogo{
+      height: 150px;
+    }
+}
